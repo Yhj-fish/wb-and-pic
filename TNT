@@ -1,1 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TNT</title>
+</head>
+<body>
+    <h1>欢迎了解TNT</h1>
 
+    <!-- 段落 -->
+    <p>这是一个示例段落，用于展示<mark>标记文本</mark>的效果。</p>
+
+    <!-- 无序列表 -->
+    <h2>无序列表示例</h2>
+    <ul>
+        <li>舞台</li>
+        <li>纪录片</li>
+        <li综艺</li>
+    </ul>
+
+    <!-- 有序列表 -->
+    <h2>有序列表示例</h2>
+    <ol>
+        <li>第一步</li>
+        <li>第二步</li>
+        <li>第三步</li>
+    </ol>
+
+    <!-- 定义列表 -->
+    <h2>定义列表示例</h2>
+    <dl>
+        <dt>术语1</dt>
+        <dd>这是术语1的解释。</dd>
+        <dt>术语2</dt>
+        <dd>这是术语2的解释。</dd>
+    </dl>
+
+    <!-- 加粗和斜体文本 -->
+    <h2>文本样式示例</h2>
+    <p>这是<strong>加粗文本</strong>，这是<em>斜体文本</em>，这是<b>粗体文本</b>，这是<i>斜体文本</i>。</p>
+
+    <!-- 带注释的文本 -->
+    <h2>带注释文本示例</h2>
+    <p><abbr title="HyperText Markup Language">HTML</abbr>是一种用于创建网页的标准标记语言。</p>
+
+    <!-- 上标和下标文本 -->
+    <h2>上标和下标文本示例</h2>
+    <p>这是上标文本：H<sub>2</sub>O，这是下标文本：x<sup>2</sup>。</p>
+
+    <!-- 带注音的文本 -->
+    <h2>带注音文本示例</h2>
+    <p>这是带注音的文本：<ruby>汉字<rp>(</rp><rt>hànzì</rt><rp>)</rp></ruby>。</p>
+</body>
